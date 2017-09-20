@@ -15,7 +15,7 @@ class DefaultController extends Controller
     {
         $someVar = true;
 
-        // hello world!
+        // a new line from TICKET 66
 
         // replace this example code with whatever you need
         return $this->render('default/index.html.twig', [
