@@ -15,9 +15,8 @@ class DefaultController extends Controller
     {
         $someVar = true;
 
-        // a new line from TICKET 66
-
-        // replace this example code with whatever you need
+        // here is another change on the code
+        // and I like it
         return $this->render('default/index.html.twig', [
             'base_dir' => realpath($this->getParameter('kernel.project_dir')).DIRECTORY_SEPARATOR,
         ]);
