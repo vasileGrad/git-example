@@ -14,6 +14,7 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         $someVar = true;
+        $here = true;
 
         // here is another change on the code
         // and I like it
