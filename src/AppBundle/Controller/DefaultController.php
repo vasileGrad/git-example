@@ -15,6 +15,7 @@ class DefaultController extends Controller
     {
         $someVar = true;
         $here = true;
+        $here2 = false;
 
         // here is another change on the code
         // and I like it
